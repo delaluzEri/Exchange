@@ -1,5 +1,8 @@
 # platzi-exchange
 
+## Demo
+You can find the live demo [here](https://exchange-delaluzeri.netlify.app/).
+
 ## Project setup
 ```
 npm install
